@@ -2,7 +2,7 @@
 
 使用遗传算法和神经网络，非监督的训练小车，让它自己学会躲避障碍物，走出迷宫！还可以自己绘制地图，设定小车的数量。
 
-![image-20200427005548039](https://github.com/a82647041/ImgLib/blob/master/image-20200427005548039.png)
+![image-20200427005548039](https://github.com/a82647041/ImgLib/blob/master/image-20200427005548039.png?raw=true)
 
 
 
